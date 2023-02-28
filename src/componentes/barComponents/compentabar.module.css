@@ -1,0 +1,36 @@
+#MainELement{
+    width: 90%;
+    height: 10vh;
+    align-items: center;
+    background-color: gray;
+    margin-top: 0.7rem;
+    border-radius: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+#SubElementBar{
+    width:99%;
+    height:10vh;
+    display: flex;
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    border-radius:20px;
+}
+
+#ELementContent{
+    margin-top: 1.5rem;
+    width: 10%;
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;    
+}
+#imgElement {
+    width: 50px;
+    height: 50px;
+}

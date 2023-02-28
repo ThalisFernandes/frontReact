@@ -1,0 +1,19 @@
+.section{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+    width:100%;
+}
+.mainBody{
+    margin-top: 0.8rem;
+    width:60%;
+}
+.button {
+    border-radius:50px !important;
+}
+input{
+    border-radius: 50px !important;
+}
+select {
+    border-radius:50px !important;
+}
